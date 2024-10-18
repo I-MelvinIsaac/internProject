@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif; /* Use a single font for consistency */
+  background-color: #f4f4f4; /* Light background for contrast */
+  color: #333; /* Darker text color for readability */
+  line-height: 1.6; /* Improved line height for readability */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
