@@ -1,9 +1,9 @@
 body {
   margin: 0;
-  font-family: 'Roboto', sans-serif; /* Use a single font for consistency */
-  background-color: #f4f4f4; /* Light background for contrast */
-  color: #333; /* Darker text color for readability */
-  line-height: 1.6; /* Improved line height for readability */
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
 }
 
 code {
